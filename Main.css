@@ -1,17 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Monda&family=Play&display=swap');
+
 /*****************************************************************************
 Déclaration générale
  *****************************************************************************/
 p {
-font-size: 20px;
+    font-family: 'Monda', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    color: #000000;
+}
+
+h1 {
+    font-family: 'Play', sans-serif;;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 59px;
+    text-align: center;
+    color: #000000;
 }
 
 
-
 /******************************************************************************
-En-Tête de la page d'accueil
+page d'accueil
  *****************************************************************************/
 .page_accueil header {
-    background-color: black;
+    position: absolute;
+    width: 422px;
+    height: 146px;
+    left: -8px;
+    top: 0px;
+    background: #000000;
+}
+
+.page_accueil main p {
+    text-align: center;
 }
 
 .page_accueil {
@@ -21,8 +46,37 @@ En-Tête de la page d'accueil
     background-repeat: no-repeat;
 }
 
+.page_accueil header img{
+    position: absolute;
+    width: 149px;
+    height: 146px;
+    left: auto;
+    right:auto;
+    top: 0px;
+}
 
+.page_accueil h1 {
+    position: absolute;
+    width: 414px;
+    height: 23px;
+    left: 0px;
+    top: 146px;
+}
 
+.page_accueil p {
+    position: absolute;
+    width: 414px;
+    height: 92px;
+    left: 0px;
+    top: 208px;
+}
+
+/************************************************************************************************************
+Biographie
+ **********************************************************************************************************/
+.page_biographie {
+    background-color:#97D3CB;
+}
 
 
 
