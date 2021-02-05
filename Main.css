@@ -1,0 +1,30 @@
+/*****************************************************************************
+Déclaration générale
+ *****************************************************************************/
+p {
+font-size: 20;
+}
+
+
+
+/******************************************************************************
+En-Tête de la page d'accueil
+ *****************************************************************************/
+.page_accueil header {
+    background-color: black;
+}
+
+.page_accueil {
+    background-image: url("Images/Nekfeu_Fond_Page1(Accueil).jpg");
+    background-size: 1170px;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
