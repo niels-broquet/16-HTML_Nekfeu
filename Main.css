@@ -22,19 +22,29 @@ h1 {
     color: #000000;
 }
 
+body {
+    background-color: #97D3CB;
+}
+
+/******************************************************************************
+En-tête
+ *****************************************************************************/
+header {
+    width: 100%;
+    height: 200px;
+    background: #000000;
+}
+
+header img {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    text-align: center;
+}
 
 /******************************************************************************
 page d'accueil
  *****************************************************************************/
-.page_accueil header {
-    position: absolute;
-    width: 100%;
-
-    height: 146px;
-    top: 0px;
-    background: #000000;
-}
-
 .page_accueil main p {
     text-align: center;
 }
@@ -44,15 +54,6 @@ page d'accueil
     background-size: 1170px;
     background-position: top;
     background-repeat: no-repeat;
-}
-
-.page_accueil header img{
-    position: absolute;
-    width: 149px;
-    height: 146px;
-    left: auto;
-    right:auto;
-    top: 0px;
 }
 
 .page_accueil h1 {
@@ -74,9 +75,7 @@ page d'accueil
 /************************************************************************************************************
 Biographie
  **********************************************************************************************************/
-body {
-    background-color:#97D3CB;
-}
+
 
 
 
