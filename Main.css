@@ -5,18 +5,13 @@ Déclaration générale
  *****************************************************************************/
 p {
     font-family: 'Monda', sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 20px;
+    font-size: 2em;
     line-height: 32px;
     color: #000000;
 }
 
 h1 {
     font-family: 'Play', sans-serif;;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 50px;
     line-height: 59px;
     text-align: center;
     color: #000000;
@@ -35,11 +30,16 @@ header {
     background: #000000;
 }
 
-header img {
+.logo {
     width: 200px;
     height: 200px;
-    position: absolute;
-    text-align: center;
+    display:inline-block;
+    alignment: center;
+}
+.menu {
+    display: inline-block;
+    vertical-align: center;
+    text-align: left;
 }
 
 /******************************************************************************
@@ -52,24 +52,10 @@ page d'accueil
 .page_accueil {
     background-image: url("Images/Nekfeu_Fond_Page1(Accueil).jpg");
     background-size: 1170px;
+    width:100%;
+    height :100%;
     background-position: top;
     background-repeat: no-repeat;
-}
-
-.page_accueil h1 {
-    position: absolute;
-    width: 414px;
-    height: 23px;
-    left: 0px;
-    top: 146px;
-}
-
-.page_accueil p {
-    position: absolute;
-    width: 414px;
-    height: 92px;
-    left: 0px;
-    top: 208px;
 }
 
 /************************************************************************************************************

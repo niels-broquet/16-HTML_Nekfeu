@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6424bb2-3d9c-42c5-b542-3c3c6dbb327a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Discographie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Accueil (1er page).html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil (1er page).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biographie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Biographie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collaboration.html" beforeDir="false" afterPath="$PROJECT_DIR$/Collaboration.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -53,6 +50,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\broqnie\OneDrive - DIVTEC\Atelier\16-Html\Menu" />
       <recent name="C:\Users\broqnie\OneDrive - DIVTEC\Atelier\16-Html" />
     </key>
   </component>
@@ -64,7 +62,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612527372785</updated>
-      <workItem from="1612527374051" duration="10241000" />
+      <workItem from="1612527374051" duration="10327000" />
+      <workItem from="1612864832171" duration="270000" />
+      <workItem from="1613131624276" duration="4416000" />
     </task>
     <task id="LOCAL-00001" summary="début de la toute première page">
       <created>1612531719433</created>
@@ -87,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612536746805</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="html de Collaboration.html">
+      <created>1612707981665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612707981665</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
