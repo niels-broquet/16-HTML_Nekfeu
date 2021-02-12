@@ -5,9 +5,8 @@ Déclaration générale
  *****************************************************************************/
 p {
     font-family: 'Monda', sans-serif;
-    font-size: 2em;
-    line-height: 32px;
-    color: #000000;
+    font-size: 20px;
+    line-height: 33px;
 }
 
 h1 {
@@ -31,15 +30,17 @@ header {
 }
 
 .logo {
-    width: 200px;
-    height: 200px;
-    display:inline-block;
-    alignment: center;
+    position: absolute;
+    width: 149px;
+    height: 146px;
+    left: 136px;
+    top: 0;
+
 }
 .menu {
-    display: inline-block;
-    vertical-align: center;
-    text-align: left;
+    position: absolute;
+    left: 39px;
+    top: 57px;
 }
 
 /******************************************************************************
@@ -57,11 +58,22 @@ page d'accueil
     background-position: top;
     background-repeat: no-repeat;
 }
-
 /************************************************************************************************************
 Biographie
  **********************************************************************************************************/
+.premier-paragraphe {
+    width: 90%;
+    color: black;
+    padding-right: 5%;
+    padding-left: 5%;
 
+}
+.image-entre-paragraphe {
+    width : 90%;
+    padding-left: 5%;
+    padding-right: 5%;
+    height : auto;
+}
 
 
 
