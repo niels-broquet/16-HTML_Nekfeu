@@ -25,18 +25,19 @@ En-tête
  *****************************************************************************/
 header {
     width: 100%;
-    height: 200px;
     background: #000000;
 }
 
-.logo{
-    width:149px;
-    height:149px;
+.logo {
+    width: 149px;
+    height: 149px;
 }
+
 header div img {
-    width : 100%;
+    width: 100%;
     text-align: center;
 }
+
 .menu {
     position: absolute;
     left: 39px;
@@ -52,13 +53,14 @@ page d'accueil
 
 .page_accueil {
     background-image: url("Images/Nekfeu_Fond_Page1(Accueil).jpg");
-    width:100%;
-    height :100%;
+    width: 100%;
+    height: 100%;
     background-position: top;
     background-repeat: no-repeat;
 }
+
 /************************************************************************************************************
-Biographie
+Biographie et Collaboration
  **********************************************************************************************************/
 .premier-paragraphe {
     width: 90%;
@@ -67,11 +69,23 @@ Biographie
     padding-left: 5%;
 
 }
+
 .image-entre-paragraphe {
-    width : 90%;
+    width: 90%;
     padding-left: 5%;
     padding-right: 5%;
-    height : auto;
+    height: auto;
+}
+
+header img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+header img .Menu {
+    display: block;
+    alignment: left;
 }
 
 
