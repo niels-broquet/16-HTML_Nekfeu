@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b6424bb2-3d9c-42c5-b542-3c3c6dbb327a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discographie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Discographie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +50,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\broqnie\OneDrive - DIVTEC\Atelier\16-Html\css" />
       <recent name="C:\Users\broqnie\OneDrive - DIVTEC\Atelier\16-Html\Images" />
+      <recent name="C:\Users\broqnie\OneDrive - DIVTEC\Atelier\16-Html\css" />
       <recent name="C:\Users\broqnie\OneDrive - DIVTEC\Atelier\16-Html\Menu" />
       <recent name="C:\Users\broqnie\OneDrive - DIVTEC\Atelier\16-Html" />
     </key>
@@ -69,7 +70,7 @@
       <workItem from="1613332695131" duration="257000" />
       <workItem from="1615896835395" duration="12545000" />
       <workItem from="1616156265023" duration="62000" />
-      <workItem from="1616499567843" duration="13230000" />
+      <workItem from="1616499567843" duration="16684000" />
     </task>
     <task id="LOCAL-00001" summary="début de la toute première page">
       <created>1612531719433</created>
@@ -197,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616511042193</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="accueil terminé">
+      <created>1616512928360</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1616512928360</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +224,7 @@
     <MESSAGE value="fin description des films" />
     <MESSAGE value="début description film" />
     <MESSAGE value="description album terminé" />
-    <option name="LAST_COMMIT_MESSAGE" value="description album terminé" />
+    <MESSAGE value="accueil terminé" />
+    <option name="LAST_COMMIT_MESSAGE" value="accueil terminé" />
   </component>
 </project>
