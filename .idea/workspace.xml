@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b6424bb2-3d9c-42c5-b542-3c3c6dbb327a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cyborg.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cyborg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Feu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <workItem from="1613332695131" duration="257000" />
       <workItem from="1615896835395" duration="12545000" />
       <workItem from="1616156265023" duration="62000" />
-      <workItem from="1616499567843" duration="11354000" />
+      <workItem from="1616499567843" duration="13230000" />
     </task>
     <task id="LOCAL-00001" summary="début de la toute première page">
       <created>1612531719433</created>
@@ -191,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616510677598</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="description album terminé">
+      <created>1616511042193</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1616511042193</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +215,7 @@
     <MESSAGE value="description des films" />
     <MESSAGE value="fin description des films" />
     <MESSAGE value="début description film" />
-    <option name="LAST_COMMIT_MESSAGE" value="début description film" />
+    <MESSAGE value="description album terminé" />
+    <option name="LAST_COMMIT_MESSAGE" value="description album terminé" />
   </component>
 </project>
