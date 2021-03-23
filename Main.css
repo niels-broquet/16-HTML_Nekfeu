@@ -146,3 +146,17 @@ label {
 #menu:checked ~ main {
     display: none;
 }
+/***************************************
+Tout nous sépare
+ **************************************/
+.separe{
+    width: 10%;
+    height: auto;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.separedef {
+    margin-left: 3%;
+    margin-top: 3%;
+}
