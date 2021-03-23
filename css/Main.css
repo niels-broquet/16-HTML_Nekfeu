@@ -182,18 +182,19 @@ définition film
     width: 10%;
     height: auto;
     display: inline-block;
-    margin-top: 10%;
+    position: absolute;
+    top:90vh;
 }
 
 .flecheDroit {
     text-align: right;
-    margin-left: 38%;
+    margin-left: 89%;
+
 
 }
 
 .flecheGauche {
     text-align: left;
-    margin-right: 38%;
     margin-left: 1%;
 }
 
@@ -210,4 +211,3 @@ définition film
     display: inline-block;
     vertical-align: middle;
     width: 10%;
-}
