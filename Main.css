@@ -20,6 +20,7 @@ body {
     background-color: #97D3CB;
 }
 
+
 /******************************************************************************
 En-tête
  *****************************************************************************/
@@ -124,10 +125,14 @@ header label {
 label {
 }
 
+.close{
+    width: 2%;
+    display: none;
+}
 
 /* Cache open */
 #menu:checked ~ header label .Menu  {
-    display: none;
+   display: none;
 }
 /* Affiche close */
 #menu:checked ~ header label .close  {
