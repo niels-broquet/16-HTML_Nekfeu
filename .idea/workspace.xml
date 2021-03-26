@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6424bb2-3d9c-42c5-b542-3c3c6dbb327a" name="Default Changelist" comment="" />
+    <list default="true" id="b6424bb2-3d9c-42c5-b542-3c3c6dbb327a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collaboration.html" beforeDir="false" afterPath="$PROJECT_DIR$/Collaboration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Discographie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Discographie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -66,7 +72,10 @@
       <workItem from="1613332695131" duration="257000" />
       <workItem from="1615896835395" duration="12545000" />
       <workItem from="1616156265023" duration="62000" />
-      <workItem from="1616499567843" duration="16808000" />
+      <workItem from="1616499567843" duration="16842000" />
+      <workItem from="1616521587333" duration="740000" />
+      <workItem from="1616590038498" duration="653000" />
+      <workItem from="1616746994238" duration="3052000" />
     </task>
     <task id="LOCAL-00001" summary="début de la toute première page">
       <created>1612531719433</created>
@@ -208,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616516438881</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="menu presque terminé">
+      <created>1616516541143</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1616516541143</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
