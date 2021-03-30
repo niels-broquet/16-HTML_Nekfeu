@@ -31,11 +31,14 @@ En-tête
 header {
     width: 100%;
     background: #000000;
+    text-align: center;
+    position: relative;
 }
 
-.logo {
+.seinezoo{
     width: 149px;
     height: 149px;
+
 }
 
 header div img {
@@ -48,6 +51,7 @@ header div img {
     left: 39px;
     top: 57px;
 }
+
 
 /******************************************************************************
 page d'accueil
@@ -83,7 +87,9 @@ header img {
 .Menu {
     display: inline-block;
     height: 50px;
-    margin-left: 8%;
+    top: -13px;
+    left: -209px;
+    position: absolute;
 }
 
 /************************************************************************************************************
@@ -108,9 +114,6 @@ Biographie et Collaboration
 /***************************************
 définition film
  **************************************/
-.pagedefinition {
-
-}
 
 .deffilm {
     margin-right: 3%;
@@ -132,7 +135,7 @@ définition film
     height: auto;
     display: inline-block;
     position: absolute;
-    top: 90vh;
+    top: 80vh;
 }
 
 .flecheDroit {
@@ -162,7 +165,7 @@ Discographie
 ********************************************/
 .discographie p{
     text-align: center;
-    margin: 3% 3%;
+    margin: 2% 14%;
 }
 
 .discographie h1{
@@ -179,16 +182,34 @@ Discographie
     margin-left: 3%;
 }
 
-.discographie main div{
+.discographie main .categorie{
     text-align: center;
     background-color: black;
-    color: white;
+    color: #ffffff;
     font-family: 'Monda', sans-serif;
     font-size: 20px;
     margin-top : 3%;
 }
 
 .video{
-    margin-left: 5%;
     margin-top: 5%;
+}
+
+.videoalign {
+    display: inline-block;
+    text-align: center;
+    background-color: #97D3CB;
+}
+
+/**************************************************
+Filmographie
+************************************ */
+td, tr, th{
+    border: black solid 1px;
+    border-collapse: collapse;
+}
+
+table{
+    border-collapse: collapse;
+    margin-top: 2%;
 }

@@ -2,18 +2,43 @@
 <html lang="en">
 <head>
     <!—Favicon-->
-    <link rel="icon" href="Images/Seinezoo_Logo(En-tête).jpg">
+    <link rel="icon" href="Images/Seinezoo_Logo(En-tete).jpg">
     <meta charset="UTF-8">
     <title>Nekfeu | Discographie</title>
     <link rel="stylesheet" href="css/Main.css">
     <link rel="stylesheet" href="css/normalize.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/menu.css">
 </head>
 <body class = "discographie">
+<input type="checkbox" id="menu"/>
 <header>
-
-    <img class="Menu" src="Images/img.png" alt="trois petites barres représentant le menu"/>
-    <img height="163" src="Images/Seinezoo_Logo(En-tête).jpg" width="166" alt="Logo Seine zoo"/>
+    <label for="menu">
+        <img class="close" src="Images/croix-blanche-fond-noir.gif" alt="croix afin de fermer le menu"/>
+        <img class="Menu" src="Images/img.png" alt="trois petites barres représentant le menu"/>
+    </label>
+    <img class="seinezoo"
+         src="Images/Seinezoo_Logo(En-tete).jpg"
+         alt="Logo Seine zoo"/>
+    <nav>
+        <ul>
+            <a href="Accueil(1er%20page).html">
+                <li class="accueil">Accueil</li>
+            </a>
+            <a href="Biographie.html">
+                <li class="biographie">Biographie</li>
+            </a>
+            <a href="Collaboration.html">
+                <li class="collaboration">Collaboration</li>
+            </a>
+            <a href="Discographie.html">
+                <li class="discographie">Discographie</li>
+            </a>
+            <a href="Filmographiet.html">
+                <li class="filmographie">Filmographie</li>
+            </a>
+        </ul>
+    </nav>
 
 </header>
 <main>
@@ -21,11 +46,17 @@
     <p>Cliquez sur une pochette pour en savoir d'avantage</p>
     <a href ="Cyborg.html"><img class="pochette cyborg" src="Images/Pochette_Cyborg(Discographie).jpg" alt = "pochette de l'album cyborg"/></a>
     <a href ="Feu.html"><img class="pochette" src="Images/Pochette_Feu(Discographie).jpg" alt = "Pochette de l'album Feu"/></a>
-    <a href ="étoiles%20vagabondes%20album.html"><img class="pochette" src="Images/Pochette_étoile_expansion(Discographie).jpg" alt="pochette de l'album les étoiles vagabondes"/></a>
-    <div>Vidéo</div>
+    <a href ="etoiles_vagabondes_album.html"><img class="pochette" src="Images/Pochette_etoile_expansion(Discographie).jpg" alt="pochette de l'album les étoiles vagabondes"/></a>
+    <div class = "categorie">Vidéo</div>
+
+    <div class = "videoalign">
     <iframe class="video" src="https://www.youtube.com/embed/YltjliK0ZeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>Son son le plus vu : On verra, sorti le 12 mai 2015</p>
     <iframe class="video" src="https://www.youtube.com/embed/FBGmBnXpYBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>Interview de la Clique.</p>
     <iframe class="video" src="https://www.youtube.com/embed/yJtQDzWGdAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>Analyse du dernier album de Nekfeu et potentielle fin de carrière</p>
+    </div>
 </main>
 <footer>
 

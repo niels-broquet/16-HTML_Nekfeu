@@ -2,20 +2,45 @@
 <html lang="en">
 <head>
     <!—Favicon-->
-    <link rel="icon" href ="Images/Seinezoo_Logo(En-tête).jpg">
+    <link rel="icon" href ="Images/Seinezoo_Logo(En-tete).jpg">
     <meta charset="UTF-8">
     <title>Nekfeu | Biographie</title>
     <link rel="stylesheet" href="css/Main.css">
     <link rel="stylesheet" href="css/normalize.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/menu.css">
 </head>
 
-<body class="page-biographie">
+<body class="page-biographie"><input type="checkbox" id="menu"/>
 <header>
-    <img class ="Menu" src="Images/img.png" alt="trois petites barres représentant le menu"/>
-    <img height="163" src="Images/Seinezoo_Logo(En-tête).jpg" width="166" alt="Logo Seine zoo"/>
-</header>
+    <label for="menu">
+        <img class="close" src="Images/croix-blanche-fond-noir.gif" alt="croix afin de fermer le menu"/>
+        <img class="Menu" src="Images/img.png" alt="trois petites barres représentant le menu"/>
+    </label>
+    <img class="seinezoo"
+         src="Images/Seinezoo_Logo(En-tete).jpg"
+         alt="Logo Seine zoo"/>
+    <nav>
+        <ul>
+            <a href="Accueil(1er%20page).html">
+                <li class="accueil">Accueil</li>
+            </a>
+            <a href="Biographie.html">
+                <li class="biographie">Biographie</li>
+            </a>
+            <a href="Collaboration.html">
+                <li class="collaboration">Collaboration</li>
+            </a>
+            <a href="Discographie.html">
+                <li class="discographie">Discographie</li>
+            </a>
+            <a href="Filmographiet.html">
+                <li class="filmographie">Filmographie</li>
+            </a>
+        </ul>
+    </nav>
 
+</header>
 <main>
     <h1>Biographie</h1>
     <p class ="premier-paragraphe">
@@ -26,7 +51,7 @@
         médiatisé.
     </p>
 
-    <img class="image-entre-paragraphe" src="Images/Nekfeu_écoute_Nature(Biographie).jpg" alt="Nekfeu entrain de chanter en pleine nature"/>
+    <img class="image-entre-paragraphe" src="Images/Nekfeu_ecoute_Nature(Biographie).jpg" alt="Nekfeu entrain de chanter en pleine nature"/>
 
     <p class ="premier-paragraphe">Il a commencé avec le S-Crew en 2010. C'est après cela et plusieurs opens mics avec le S-Crew, 1995 et
         L'Entourage qu'il accroît sa notoriété sur la scène underground parisienne.
@@ -39,7 +64,7 @@
         premier album du groupe est intitulé Seine Zoo.
     </p>
 
-    <img class="image-entre-paragraphe" src="Images/Nekfeu_Sur_Scène(Biographie).jfif" alt="Nekfeu Jeune sur scène">
+    <img class="image-entre-paragraphe" src="Images/Nekfeu_Sur_Scene(Biographie).jfif" alt="Nekfeu Jeune sur scène">
 
     <p class ="premier-paragraphe">Courant 2014, avec L'Entourage, le premier album du collectif sort dans les bacs et est intitulé Jeunes
         Entrepreneurs. Il se bat pour la liberté d'expression.
