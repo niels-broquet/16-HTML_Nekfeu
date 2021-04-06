@@ -2,32 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6424bb2-3d9c-42c5-b542-3c3c6dbb327a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Accueil(1erpage).html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Accueil (1er page).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biographie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Biographie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collaboration.html" beforeDir="false" afterPath="$PROJECT_DIR$/Collaboration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cyborg.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cyborg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discographie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Discographie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Feu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Filmographiet.html" beforeDir="false" afterPath="$PROJECT_DIR$/Filmographiet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Nekfeu_Sur_Scène(Biographie).jfif" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Nekfeu_Sur_Scene(Biographie).jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Nekfeu_couché_de_Soleil(Collaboration).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Nekfeu_couche_de_Soleil(Collaboration).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Nekfeu_entouré(Collaboration).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Nekfeu_entoure(Collaboration).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Nekfeu_écoute_Nature(Biographie).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Nekfeu_ecoute_Nature(Biographie).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Pochette_Feu_réédition(Discographie).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Pochette_Feu_reedition(Discographie).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Pochette_étoile_expansion(Discographie).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Pochette_etoile_expansion(Discographie).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Pochette_étoile_vagabondes(Discographie).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Pochette_etoile_vagabondes(Discographie).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Seinezoo_Logo(En-tête).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Seinezoo_Logo(En-tete).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Tête_Affiche_L_Echappée(Filmographie).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Tete_Affiche_L_Echappee(Filmographie).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Tête_Affiche_Tout_nous_sépare(Filmographie).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Tete_Affiche_Tout_nous_separe(Filmographie).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Tête_Affiche_les_étoiles_vagabondes(Filmographie).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Tete_Affiche_les_etoiles_vagabondes(Filmographie).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L'échappé.html" beforeDir="false" afterPath="$PROJECT_DIR$/L'echappe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Les étoiles vagabondes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Les_etoiles_vagabondes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tout nous sépare.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tout_nous_separe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/étoiles vagabondes album.html" beforeDir="false" afterPath="$PROJECT_DIR$/etoiles_vagabondes_album.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +86,8 @@
       <workItem from="1616761483689" duration="449000" />
       <workItem from="1617099008188" duration="217000" />
       <workItem from="1617102808478" duration="11461000" />
+      <workItem from="1617128475499" duration="377000" />
+      <workItem from="1617615731169" duration="6286000" />
     </task>
     <task id="LOCAL-00001" summary="début de la toute première page">
       <created>1612531719433</created>
@@ -263,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616753050370</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="site presque temriné">
+      <created>1617128545060</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1617128545060</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +271,7 @@
     <MESSAGE value="description album terminé" />
     <MESSAGE value="accueil terminé" />
     <MESSAGE value="menu presque terminé" />
-    <option name="LAST_COMMIT_MESSAGE" value="menu presque terminé" />
+    <MESSAGE value="site presque temriné" />
+    <option name="LAST_COMMIT_MESSAGE" value="site presque temriné" />
   </component>
 </project>

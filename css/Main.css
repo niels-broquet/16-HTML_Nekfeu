@@ -32,7 +32,6 @@ header {
     width: 100%;
     background: #000000;
     text-align: center;
-    position: relative;
 }
 
 .seinezoo{
@@ -88,7 +87,7 @@ header img {
     display: inline-block;
     height: 50px;
     top: -13px;
-    left: -209px;
+    left: -90px;
     position: absolute;
 }
 
@@ -135,7 +134,7 @@ définition film
     height: auto;
     display: inline-block;
     position: absolute;
-    top: 80vh;
+    top: 85vh;
 }
 
 .flecheDroit {
@@ -207,6 +206,17 @@ Filmographie
 td, tr, th{
     border: black solid 1px;
     border-collapse: collapse;
+    font-size: 13px;
+}
+
+.filmographie p{
+    text-align: center;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+table img {
+    width:56px;
 }
 
 table{
