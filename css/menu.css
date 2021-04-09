@@ -25,7 +25,7 @@ header nav {
     background-color: white;
     position: absolute;
     z-index: 100;
-    top: 18%;
+    top: 25%;
     left: 0;
     width: 96%;
     padding: 2%;
@@ -74,4 +74,5 @@ label {
 /* Cache le contenu principal pour éviter le scroll */
 #menu:checked ~ main {
     display: none;
+    background-color: white;
 }

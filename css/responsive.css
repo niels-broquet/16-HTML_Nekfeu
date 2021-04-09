@@ -1,20 +1,35 @@
 /* Petits écrans <= 480px */
-@media only screen and (max-width: 480px) {
+@media screen and (max-width: 480px) {
 }
 
 /* Écrans moyens >= 481px */
-@media only screen and (min-width: 481px) {
+@media screen and (min-width: 481px) {
 
 }
 
 /* Grands écrans >= 769px */
-@media only screen and (min-width: 769px) {
-
+@media screen and (min-width: 769px) {
+    /**************************
+    Page collaboration
+    **************************/
+    .image-entre-paragraphe {
+        width: 30%;
+        float: right;
+        padding-left: 5%;
+        padding-right: 5%;
+        height: auto;
+    }
+    .gaucheimg {
+        float: left;
+    }
+    .alignerimg1{
+        display: inline;
+    }
 }
 
 
 /* Très grand écrans >= 1024px */
 
-@media only screen and (min-width: 1024px) {
+@media screen and (min-width: 1024px) {
 
 }

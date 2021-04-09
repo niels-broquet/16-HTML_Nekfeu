@@ -113,7 +113,6 @@ Biographie et Collaboration
 /***************************************
 définition film
  **************************************/
-
 .deffilm {
     margin-right: 3%;
     margin-top: 3%;
@@ -132,14 +131,12 @@ définition film
 .flecheGauche, .flecheDroit {
     width: 10%;
     height: auto;
-    display: inline-block;
-    position: absolute;
-    top: 85vh;
+    display: inline;
 }
 
 .flecheDroit {
     text-align: right;
-    margin-left: 89%;
+    margin-left: 77%;
 
 
 }
@@ -162,6 +159,9 @@ définition film
 /****************************************************
 Discographie
 ********************************************/
+.pagedefinition footer {
+    background-color: #97D3CB;
+}
 .discographie p{
     text-align: center;
     margin: 2% 14%;
