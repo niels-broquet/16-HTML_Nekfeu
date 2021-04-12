@@ -66,6 +66,10 @@ label {
     display: inline;
 }
 
+#menu:checked ~ header{
+    text-align: left;
+}
+
 /* Affiche le menu */
 #menu:checked ~ header nav {
     display: inline;
@@ -75,4 +79,8 @@ label {
 #menu:checked ~ main {
     display: none;
     background-color: white;
+}
+
+#menu:checked ~ footer {
+    display: none;
 }
