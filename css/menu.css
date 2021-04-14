@@ -40,7 +40,7 @@ header nav ul {
     padding: 5%;
 }
 
-header nav ul li{
+header nav ul li {
     font-family: Agency FB, serif;
     font-style: normal;
     font-weight: normal;
@@ -69,7 +69,7 @@ label {
     display: inline;
 }
 
-#menu:checked ~ header{
+#menu:checked ~ header {
     text-align: center;
 }
 

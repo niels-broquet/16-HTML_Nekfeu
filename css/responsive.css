@@ -1,12 +1,3 @@
-/* Petits écrans <= 480px */
-@media screen and (max-width: 480px) {
-}
-
-/* Écrans moyens >= 481px */
-@media screen and (min-width: 481px) {
-
-}
-
 /* Grands écrans >= 760px */
 @media screen and (min-width: 550px) {
     /**************************
@@ -19,44 +10,51 @@
         padding-right: 5%;
         height: auto;
     }
+
     .gaucheimg {
         float: left;
     }
 
-    .remonter{
+    .remonter {
         width: 8%;
         margin-left: 90%;
     }
-/***************
-filmographie
-*/
+
+    /***************
+    filmographie
+    */
     .annoncevideo {
         width: 90vw;
         height: 50vw;
     }
 
     table {
-        width:90vw;
+        width: 90vw;
     }
-/*****************
-Biographie
- *******/
+
+    /*****************
+    Biographie
+     *******/
     .droiteimg {
         float: right;
     }
+
     /********************
     Discographie
      *********/
-    .video{
+    .video {
         width: 90vw;
         height: 50vw;
     }
+
     header nav {
         top: 20%;
     }
+
     .flecheDroit {
         margin-left: 82%;
     }
+
     .flecheGauche, .flecheDroit {
         width: 8%;
     }
@@ -64,8 +62,57 @@ Biographie
 }
 
 
-/* Très grand écrans >= 1024px */
+/* Très grand écrans >= 1100px */
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1100px) {
+    /*****************
+    Accueil
+     *********************/
+    nav ul li {
+        padding: 5%;
+        margin-bottom: 4%;
+    }
 
+    .page_accueil {
+        background-image: url(../Images/le-rappeur-nekfeu-le-12-fevrier-2016-au-zenith-a-paris_5971222.jpg);
+        background-size: auto 100vh;
+        background-position: top;
+        background-repeat: no-repeat;
+    }
+
+    .page_accueil h1, .page_accueil p {
+        color: white;
+    }
+
+    .remonter {
+        width: 3%;
+        margin-left: 96%;
+    }
+
+    .image-entre-paragraphe {
+        width: 20%;
+    }
+
+    table img {
+        width: 50%;
+    }
+
+    .discographie .pochette {
+        width: 10%;
+        margin-right: 11%;
+        margin-left: 12%;
+    }
+
+    .croix {
+        width: 5%;
+    }
+
+    .flecheGauche, .flecheDroit {
+        width: 4%;
+    }
+
+    .flecheDroit {
+        margin-left: 90%;
+    }
 }
+
