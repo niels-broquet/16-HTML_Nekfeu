@@ -7,8 +7,8 @@
 
 }
 
-/* Grands écrans >= 769px */
-@media screen and (min-width: 769px) {
+/* Grands écrans >= 760px */
+@media screen and (min-width: 550px) {
     /**************************
     Page collaboration
     **************************/
@@ -22,9 +22,45 @@
     .gaucheimg {
         float: left;
     }
-    .alignerimg1{
-        display: inline;
+
+    .remonter{
+        width: 8%;
+        margin-left: 90%;
     }
+/***************
+filmographie
+*/
+    .annoncevideo {
+        width: 90vw;
+        height: 50vw;
+    }
+
+    table {
+        width:90vw;
+    }
+/*****************
+Biographie
+ *******/
+    .droiteimg {
+        float: right;
+    }
+    /********************
+    Discographie
+     *********/
+    .video{
+        width: 90vw;
+        height: 50vw;
+    }
+    header nav {
+        top: 20%;
+    }
+    .flecheDroit {
+        margin-left: 82%;
+    }
+    .flecheGauche, .flecheDroit {
+        width: 8%;
+    }
+
 }
 
 
