@@ -62,9 +62,9 @@
 }
 
 
-/* Très grand écrans >= 1100px */
+/* Très grand écrans >= 1000px */
 
-@media screen and (min-width: 1100px) {
+@media screen and (min-width: 1000px) {
     /*****************
     Accueil
      *********************/
