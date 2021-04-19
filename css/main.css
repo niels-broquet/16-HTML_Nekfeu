@@ -62,7 +62,7 @@ page d'accueil
 
 .page_accueil {
     background-image: url("../Images/Nekfeu_Fond_Page1(Accueil).jpg");
-    background-size: 100vw auto;
+    background-size: auto 100vh;
     background-position: top;
     background-repeat: no-repeat;
 }
